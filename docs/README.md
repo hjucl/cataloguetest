@@ -5,7 +5,7 @@
 
 ## Browse projects by theme:
 
-[Circular Economy](/themes/circular-economy.md)
+[Circular Economy](themes/circular-economy.md)
 
 [Digital Security and Resilience](/themes/digital-security-and-resilience.md)
 
