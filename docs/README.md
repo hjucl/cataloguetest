@@ -1,9 +1,9 @@
-#This is the project catalogue.
+# This is the project catalogue.
 
 
 
 
-##Browse projects by theme:
+## Browse projects by theme:
 
 [Circular Economy](/themes/circular-economy.md)
 
@@ -19,7 +19,7 @@
 
 
 
-##Browse projects by department:
+## Browse projects by department:
 
 [Bartlett School Env Energy and Resources](/departments/bartlett-school-env-energy-and-resources.md)
 
