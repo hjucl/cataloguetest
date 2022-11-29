@@ -1,9 +1,9 @@
-This is the project catalogue.
+#This is the project catalogue.
 
 
 
 
-Browse projects by theme:
+##Browse projects by theme:
 
 [Circular Economy](/themes/circular-economy.md)
 
@@ -19,11 +19,16 @@ Browse projects by theme:
 
 
 
-Browse projects by department:
+##Browse projects by department:
 
 [Bartlett School Env Energy and Resources](/departments/bartlett-school-env-energy-and-resources.md)
+
 [Chemistry](/departments/chemistry.md)
+
 [EEE](/departments/eee.md)
+
 [London Centre for Nanotechnology (LCN)](/departments/london-centre-for-nanotechnology.md)
+
 [Physics and Astronomy](/departments/physics-and-astronomy.md)
+
 [Division of Surgery and Interventional Sci](/departments/division-of-surgery-and-interventional-sci.md)
