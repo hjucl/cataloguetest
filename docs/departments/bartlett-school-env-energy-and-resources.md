@@ -2,7 +2,7 @@ This page lists all the available projects hosted in the Bartlett School Env Ene
 
 Information about Bartlett School Env Energy and Resources can be found on the [departmental website](www.example.com/dept1)
 
-[projectID: 23rd495587] (/projects/23rd495587.md) In blandit ultrices enim.
+project: [projectID: 23rd495587] (/projects/23rd495587.md) In blandit ultrices enim.
 
 [23bz203616] (/projects/23bz203616.md) Pellentesque viverra pede ac diam.
 
