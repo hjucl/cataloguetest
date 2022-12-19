@@ -6,7 +6,9 @@
 ## Browse projects by theme:
 
 [Circular Economy](themes/circular-economy.md)
+
 [Digital Security and Resilience](themes/digital-security-and-resilience.md)
+
 [Energy and Decarbonisation](themes/energy-and-decarbonisation.md)
 
 [Information and Communication Technologies](themes/information-and-communication-technologies.md)
